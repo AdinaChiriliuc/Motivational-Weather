@@ -9,5 +9,3 @@ This daily weather app will give you a nice quote along with the weather info.
 * Use Core Location to get the GPS data
 
 
-## Contact
-Created by Adina Chiriliuc - feel free to contact me!
